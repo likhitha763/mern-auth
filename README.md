@@ -111,13 +111,14 @@ npm run dev
 ### server/.env
 ```
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/auth_system
+MONGO_URI=mongodb+srv://auth-system:auth-system@cluster0.je2hpoh.mongodb.net/?appName=Cluster0
 JWT_SECRET=change_this_to_a_long_random_string
 JWT_EXPIRE=7d
 CLIENT_URL=http://localhost:5173
+
 ```
 
 ### client/.env
 ```
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=https://mern-auth-system-iqha.onrender.com/api
 ```
