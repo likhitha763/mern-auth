@@ -4,6 +4,12 @@ A complete User Authentication System using **MongoDB, Express.js, React.js, Nod
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Project:** https://mern-auth-system-pi.vercel.app/
+
+---
+
 ## Project Structure
 
 ```
