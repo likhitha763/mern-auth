@@ -10,6 +10,12 @@ A complete User Authentication System using **MongoDB, Express.js, React.js, Nod
 
 ---
 
+## 📂 GitHub Repository
+
+💻 **Source Code:** https://github.com/likhitha763/mern-auth
+
+---
+
 ## Project Structure
 
 ```
