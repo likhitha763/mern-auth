@@ -52,9 +52,22 @@ mern-auth-system/
 
 ## Setup & Run
 
-### Prerequisites
-- Node.js v18+
-- MongoDB running locally on port 27017
+## Prerequisites
+
+Before running this project, install the following software:
+
+- Node.js (v18 or later)
+- npm (comes with Node.js)
+- MongoDB Community Server (or MongoDB Atlas)
+- Git (optional, for cloning the repository)
+
+Verify the installation:
+
+```bash
+node -v
+npm -v
+git --version
+```
 
 ### Step 1 — Configure server
 ```bash
